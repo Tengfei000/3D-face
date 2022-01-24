@@ -7,4 +7,8 @@ github:https://github.com/YadiraF/DECA
 2. 
 
 
+# 3D-hand
 
+1. MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. (SIGGRAPH2020)  
+paper:
+3. 
