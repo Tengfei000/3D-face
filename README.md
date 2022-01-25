@@ -8,7 +8,7 @@ github:https://github.com/YadiraF/DECA
 paper:https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.pdf  
 3. A morphable model for the synthesis of 3d faces （3DMM）  
 paper：https://dl.acm.org/doi/pdf/10.1145/311535.311556
-4. Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection
+4. Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection (CVPR21)  
 paper:https://arxiv.org/pdf/2103.08204.pdf
 
 # 3D-hand
