@@ -15,9 +15,10 @@ github: https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP
 paper：https://arxiv.org/pdf/2105.02431.pdf    
 github: https://github.com/WestlyPark/StyleRenderer    
 6. Riggable 3D Face Reconstruction via In-Network Optimization （CVPR21）
-paepr：
+paepr：https://arxiv.org/abs/2104.03493
 7. 3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction （CVPR21） 
-paper：
+paper：https://arxiv.org/pdf/2103.08204.pdf  
+github: https://github.com/qiuyuda/3DCaricShop
 
 # 3D-hand
 
