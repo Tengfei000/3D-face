@@ -9,7 +9,11 @@ paper:https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Feng_Joint_3D_F
 3. A morphable model for the synthesis of 3d faces （3DMM）  
 paper：https://dl.acm.org/doi/pdf/10.1145/311535.311556
 4. Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection (CVPR21)  
-paper:https://arxiv.org/pdf/2103.08204.pdf
+paper:https://arxiv.org/pdf/2103.08204.pdf  
+5. Inverting Generative Adversarial Renderer for Face Reconstruction （CVPR2021） 
+paper：https://arxiv.org/pdf/2105.02431.pdf  
+code：https://github.com/WestlyPark/StyleRenderer  
+6. 
 
 # 3D-hand
 
