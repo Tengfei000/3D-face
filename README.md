@@ -19,6 +19,9 @@ paepr：https://arxiv.org/abs/2104.03493
 7. 3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction （CVPR21）   
 paper：https://arxiv.org/pdf/2103.08204.pdf  
 github: https://github.com/qiuyuda/3DCaricShop
+8. Learning a model of facial shape and expression from 4D scans （FLAME）  
+paper：https://dl.acm.org/doi/pdf/10.1145/3130800.3130813   
+10. 
 
 # 3D-hand
 
