@@ -22,6 +22,7 @@ github: https://github.com/qiuyuda/3DCaricShop
 8. Learning a model of facial shape and expression from 4D scans （FLAME）  
 paper：https://dl.acm.org/doi/pdf/10.1145/3130800.3130813   
 10. Face Alignment Across Large Poses: A 3D Solution （3DDFA,NCC,PNCC）
+paper: https://arxiv.org/pdf/1511.07212.pdf
 
 # 3D-hand
 
