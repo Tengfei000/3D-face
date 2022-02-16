@@ -36,3 +36,10 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
 
 2. 
 3. 
+3D人脸数据库
+300W-LP
+Florence
+AFLW2000-3D
+NoW Benchmark
+FaceWarehouse
+Stirling-HQ (FG2018 3D face reconstruction challenge)
