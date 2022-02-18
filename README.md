@@ -30,7 +30,8 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
 # dataset 
 # 3D-body
 1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
+2. LFW:http://vis-www.cs.umass.edu/lfw/
+3. 300W-LP:http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 # 3D-hand
 
 1. MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. (SIGGRAPH2020)  
