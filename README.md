@@ -27,8 +27,9 @@ paper：https://dl.acm.org/doi/pdf/10.1145/3130800.3130813
 10. Face Alignment Across Large Poses: A 3D Solution （3DDFA,NCC,PNCC,2017）  
 paper: https://arxiv.org/pdf/1511.07212.pdf
 
+# dataset 
 # 3D-body
-1.
+1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 # 3D-hand
 
