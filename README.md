@@ -45,18 +45,15 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
 9. LS3D-W：https://www.adrianbulat.com/face-alignment  
 10. AFW database：http://www.ics.uci.edu/~xzhu/face/  
 11. UMDFaces dataset：http://umdfaces.io/  
+12. FaceWarehouse：http://kunzhou.net/zjugaps/facewarehouse/ 
 # 3D-body 
 # 3D-hand
 
+
 1. MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. (SIGGRAPH2020)  
 
-2. 
-3.   
-3D人脸数据库  
-300W-LP  
-Florence  
+
+ 
 AFLW2000-3D  
 NoW Benchmark  
-FaceWarehouse  
 Stirling-HQ (FG2018 3D face reconstruction challenge)  
-BU-3DFE
