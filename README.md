@@ -49,7 +49,7 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
 # 3D-body 
 # 3D-hand
 
-
+a
 1. MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. (SIGGRAPH2020)  
 
 
