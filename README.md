@@ -24,6 +24,10 @@ paper：https://arxiv.org/pdf/2103.08204.pdf
 github: https://github.com/qiuyuda/3DCaricShop
 8. Learning a model of facial shape and expression from 4D scans （FLAME 2017）  
 paper：https://dl.acm.org/doi/pdf/10.1145/3130800.3130813   
+9. Accurate 3D Face Reconstruction with Weakly-Supervised Learning:
+From Single Image to Image Set  
+paper:https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Deng_Accurate_3D_Face_Reconstruction_With_Weakly-Supervised_Learning_From_Single_Image_CVPRW_2019_paper.pdf  
+github:https://github.com/sicxu/Deep3DFaceRecon_pytorch
 10. Face Alignment Across Large Poses: A 3D Solution （3DDFA,NCC,PNCC,2017）  
 paper: https://arxiv.org/pdf/1511.07212.pdf
 
