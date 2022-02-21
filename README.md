@@ -36,7 +36,7 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
  
 1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
 2. LFW:http://vis-www.cs.umass.edu/lfw/  
-3. 300W-LP:http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.html  
+3. 300W-LP:http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 4. IJB-A:https://www.nist.gov/programs-projects/face-challenges  
 5. LS3D-W:https://www.adrianbulat.com/face-alignment  
 6. FFHQ:https://github.com/NVlabs/ffhq-dataset  
