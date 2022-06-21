@@ -30,7 +30,9 @@ paper:https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Deng_Accurate
 github:https://github.com/sicxu/Deep3DFaceRecon_pytorch
 10. Face Alignment Across Large Poses: A 3D Solution （3DDFA,NCC,PNCC,2017）  
 paper: https://arxiv.org/pdf/1511.07212.pdf
-
+11.To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision  
+paper: file:///C:/Users/s00645594/Desktop/2106.09614.pdf  
+github:https://github.com/unibas-gravis/Occlusion-Robust-MoFA
 
 # dataset 
  
