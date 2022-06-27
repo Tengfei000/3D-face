@@ -33,6 +33,8 @@ paper: https://arxiv.org/pdf/1511.07212.pdf
 11.To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision  
 paper: file:///C:/Users/s00645594/Desktop/2106.09614.pdf  
 github:https://github.com/unibas-gravis/Occlusion-Robust-MoFA
+12.Deep Portrait Lighting Enhancement with 3D Guidance 
+paper: https://arxiv.org/pdf/2108.02121.pdf 
 
 # dataset 
  
