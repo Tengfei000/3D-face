@@ -51,7 +51,11 @@ paper: https://arxiv.org/pdf/2108.02121.pdf
 11. UMDFaces dataset：http://umdfaces.io/  
 12. FaceWarehouse：http://kunzhou.net/zjugaps/facewarehouse/ 
 13. RFW :http://whdeng.cn/RFW/index.html
-# 3D-body 
+# 3D-demo
+Introduction:https://cloud.tencent.com/developer/article/1006396
+https://www.youtube.com/watch?v=12vTI18m4_Y
+
+
 # 3D-hand
 
 a
