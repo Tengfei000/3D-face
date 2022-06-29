@@ -35,7 +35,8 @@ paper: file:///C:/Users/s00645594/Desktop/2106.09614.pdf
 github:https://github.com/unibas-gravis/Occlusion-Robust-MoFA
 12.Deep Portrait Lighting Enhancement with 3D Guidance 
 paper: https://arxiv.org/pdf/2108.02121.pdf 
-
+13.Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry 
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf 
 # dataset 
  
 1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
