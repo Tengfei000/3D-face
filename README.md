@@ -4,9 +4,6 @@
 paper:https://arxiv.org/pdf/2012.04012.pdf  
 talk:https://www.youtube.com/watch?v=osaATR4Q3bo  
 github: https://github.com/YadiraF/DECA  
-
-
-
 2. Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network. (ECCV2018) proposed the UV map
 paper:https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.pdf  
 3. A morphable model for the synthesis of 3d faces （3DMM）  
@@ -37,6 +34,8 @@ github:https://github.com/unibas-gravis/Occlusion-Robust-MoFA
 paper: https://arxiv.org/pdf/2108.02121.pdf 
 13.Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry 
 paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf 
+14. REALY: Rethinking the Evaluation of 3D Face Reconstruction  
+paper： https://arxiv.org/pdf/2203.09729.pdf  
 # dataset 
  
 1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
