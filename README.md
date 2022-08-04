@@ -36,6 +36,10 @@ paper: https://arxiv.org/pdf/2108.02121.pdf
 paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf 
 14. REALY: Rethinking the Evaluation of 3D Face Reconstruction  
 paper： https://arxiv.org/pdf/2203.09729.pdf  
+15. Face2Face：Real-Time High-Resolution one-shot face reenactment
+paper: 
+16. Learning to Restore 3D Face from In-the-Wild Degraded Images
+paepr：https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Learning_To_Restore_3D_Face_From_In-the-Wild_Degraded_Images_CVPR_2022_paper.pdf
 # dataset 
  
 1. CelebA:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
